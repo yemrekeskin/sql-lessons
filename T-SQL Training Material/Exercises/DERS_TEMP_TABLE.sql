@@ -1,4 +1,4 @@
-﻿
+
 
 -- TEMPRORAL TABLE
 
@@ -63,12 +63,18 @@ SELECT * FROM OrnekTablo
 -- Kolonları isimlerini alianz ile gizleriz
 -- Order by tek başına kullanılmaz eğer istiyorsak TOP ile birlikte kullanılır
 -- View üzerinde insert, update,delete yapılabilir, fiziksel taloya yansıtılır
+go;
+
 
 CREATE VIEW VW_PRODUCT_GETIR
 AS
 SELECT FirstName,LastName FROM dbo.Employees
 
+go;
+
 SELECT * FROM VW_PRODUCT_GETIR
+
+go;
 
 -- VIEW - WITH ENCRIPTION
 -- View in kaynak koduna erişlmesini istemiyorsak kullanırız
@@ -76,6 +82,8 @@ CREATE VIEW OrnekViewEmployee
 WITH ENCRYPTION
 AS
 SELECT FirstName FROM Employees
+
+go;
 
 
 SELECT * FROM OrnekViewEmployee
@@ -88,16 +96,20 @@ CREATE TABLE OrnekTable
 	Kolon1 nvarchar(50)
 )
 
+go;
 
 CREATE VIEW OrnekTableView
 WITH SCHEMABINDING
 AS
 SELECT Kolon1 FROM dbo.OrnekTable
 
+go;
+
 
 ALTER TABLE OrnekTable
 ALTER COLUMN Kolon1 int
 
+go;
 
 -- VIEW - WITH CHECK OPTION
 -- View'in içerisindeki sorguda bulunan şata uygun kayıların inser edilmesine müsade edip,
@@ -107,6 +119,9 @@ CREATE VIEW OrnekView2
 AS
 	SELECT CategoryName FROM dbo.Categories WHERE CategoryName LIKE 'b%'
 WITH CHECK OPTION
+
+go;
+
 
 INSERT OrnekView2 VALUES('beliha')
 INSERT OrnekView2 VALUES('celiha')
