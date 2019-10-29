@@ -12,12 +12,37 @@ This repo contains sample querying exercises, examples, huge data files and trai
 * Table
 * Arithmetic Expressions and Functions
 * Constrait 
+    - NULL / NOT NULL
+    - UNIQUE
+    - CHECK
+    - DEFAULT
+    - PRIMARY KEY - IDENTITY(1,1)
+    - FOREIGN KEY - CASCADE, SET NULL
 * Sub-Query
 * Joins
+    - FULL OUTER JOIN = FULL JOIN
+    - LEFT OUTER JOIN = LEFT JOIN
+    - RIGHT OUTER JOIN = RIGHT JOIN
+    - CROSS JOIN
+    - INNER JOIN
+    - SELF JOIN
 * View
 * Programmatic Concepts
+    - DECLARE @, SET, SELECT, PRINT
+    - BEGIN - END
+    - IF, IF-ELSE, IF-ELSE IF-ELSE
+    - WHILE - BREAK - CONTINUE
+    - CASE - WHEN THEN - ELSE END
 * Function
+    - Inline Functions
+    - Scalar-Value Functions
 * Stored Procedure
+    - CREATE/ALTER/DROP PROC
+    - PROC = PROCEDURE
+    - Set default value
+    - Input/Output parameters
+    - Return
+    - EXEC = EXECUTE
 * Trigger
 * Index
 
