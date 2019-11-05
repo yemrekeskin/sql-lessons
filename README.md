@@ -41,9 +41,18 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - PROC = PROCEDURE
     - Set default value
     - Input/Output parameters
-    - Return
+    - RETURN
     - EXEC = EXECUTE
 * Trigger
+    - DDL TRIGGER
+        - AFTER/FOR DROP_TABLE,DROP_PROCEDURE, CREATE_FUNCTION 
+        - ON DATABASE
+    - DML TRIGGER 
+        - AFTER/FOR INSERT,DELETE,UPDATE
+        - INSERTED - DELETED TABLE
+        - UPDATED = DELETED + INSERTED
+        - INSTEAD OF INSERT
+    - ENABLE-DISABLE TRIGGER
 * Index
 
 ## Sample Databases
