@@ -8,8 +8,22 @@ This repo contains sample querying exercises, examples, huge data files and trai
 
 * Introduction to T-SQL
 * Schema 
+    - CREATE SCHEMA
+    - DROP SCHEMA
 * Database 
+    - CREATE DATABASE
+    - DROP DATABASE
 * Table
+    - CREATE/ALTER/DROP TABLE
+    - TRUNCATE TABLE
+* Data Manipulations
+    - INSERT INTO = INSERT
+    - SELECT 
+    - DELETE
+    - UPDATE
+    - WHERE
+    - INSERT INTO SELECT
+    - SELECT INTO
 * Arithmetic Expressions and Functions
 * Constrait 
     - NULL / NOT NULL
@@ -27,6 +41,9 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - INNER JOIN
     - SELF JOIN
 * View
+    - CREATE VIEW AS 
+    - ALTER VIEW AS
+    - DROP VIEW
 * Programmatic Concepts
     - DECLARE @, SET, SELECT, PRINT
     - BEGIN - END
@@ -35,7 +52,9 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - CASE - WHEN THEN - ELSE END
 * Function
     - Inline Functions
+        - RETURN TABLE
     - Scalar-Value Functions
+        - RETURN TABLE
 * Stored Procedure
     - CREATE/ALTER/DROP PROC
     - PROC = PROCEDURE
