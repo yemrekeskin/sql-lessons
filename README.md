@@ -54,6 +54,13 @@ This repo contains sample querying exercises, examples, huge data files and trai
         - INSTEAD OF INSERT
     - ENABLE-DISABLE TRIGGER
 * Index
+* Transactions
+    - TRAN = TRANSACTION
+    - BEGIN TRAN
+    - COMMIT - COMMIT TRAN
+    - ROLLBACK - ROLLBACK TRAN
+    - SAVE TRAN 
+    - NESTED TRANSACTIONS
 
 ## Sample Databases
 
