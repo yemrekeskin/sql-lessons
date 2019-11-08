@@ -1,0 +1,157 @@
+
+
+1.Öğrenci tablosundaki tüm kayıtları listeleyin.
+
+2.Öğrenci tablosundaki öğrencinin adını ve soyadını ve sınıfını listeleyin.
+
+3. Öğrenci tablosundaki cinsiyeti kız (K) olan kayıtları listeleyiniz.
+
+4.Öğrenciler tablosundaki sınıfların adını her sınıf bir kez görülecek şekilde listeleyiniz.
+
+5.Öğrenci tablosundaki cinsiyeti Kız ve Sınıfı 10A olan öğrencileri listeleyiniz.
+
+6.Öğrenci tablosundaki 10A veya 10B sınıfındaki öğrencilerin adını, soyadını ve sınıfını listeleyiniz.
+
+7.Öğrenci tablosundaki öğrencinin adını, soyadını ve numarasını okul numarası olarak listeleyiniz. (as kullanım örneği)
+
+8. Öğrenci tablosundaki öğrencinin adını ve soyadını birleştirip, adsoyad olarak listeleyiniz. (as kullanım örneği) 
+
+9. Öğrenci tablosundaki Adı ‘A’ harfi ile başlayan öğrencileri listeleyiniz.
+
+10.kitap tablosundaki sayfa sayısı 50 ile 200 arasında olan kitapların adını ve sayfa sayısını listeleyiniz.
+
+11. Öğrenci tablosunda adı Fidan, İsmail ve Leyla olan öğrencileri listeleyiniz.
+
+12. Öğrenci tablosundaki öğrencilerden adı A, D ve K ile başlayan öğrencileri listeleyiniz.
+
+13. Öğrenci tablosundaki sınıfı 9A olan Erkekleri veya sınıfı 9B olan kızların adını, soyadını, sınıfını ve cinsiyetini listeleyiniz.
+
+14. Sınıfı 10A veya 10B olan erkekleri listeleyiniz.
+
+15.Öğrenci tablosunda doğum yılı 1989 olan öğrencileri listeleyiniz.
+
+16.Öğrenci numarası 30 ile 50 arasında olan Kız öğrencileri listeleyiniz.
+
+17.Öğrencileri adına göre sıralayınız.
+
+18. Öğrencileri adına, adı aynı olanlarıda soyadlarına göre sıralayınız.
+
+19. 10A sınıfındaki öğrencileri okul numarasına göre azalan olarak sıralayınız.
+
+20. Öğrenciler tablosundaki ilk 10 kaydı listeleyiniz.
+
+21. Öğrenciler tablosundaki ilk 10 kaydın ad, soyad ve doğum tarihi bilgilerini listeleyiniz.
+
+22.Sayfa sayısı en fazla olan kitabı listeleyiniz.
+
+23. Öğrenciler tablosundaki en genç öğrenciyi listeleyiniz.
+
+24. 10A sınıfındaki en yaşlı öğrenciyi listeyin.
+
+25. İkinci harfi N olan kitapları listeleyiniz.
+
+26. Öğrencileri sınıflarına göre gruplayarak listeleyin.
+
+27. Öğrencileri her sorgulamada sıralaması farklı olacak şekilde rastgele listeleyin.
+
+28. Ogrenci tablosundan Rastgele bir öğrenci seçiniz.
+
+29. 10A sınıfından rastgele bir öğrencinin adını, soyadını, numarasını ve sınıfını getirin.
+
+30. Yazar tablosunu KEMAL UYUMAZ isimli yazarı ekleyin.
+
+31. Biyografi türünü tür tablosuna ekleyiniz.
+
+32. 10A sınıfı olan ÇAĞLAR ÜZÜMCÜ isimli erkek, sınıfı 9B olan LEYLA ALAGÖZ isimli kız ve sınıfı 11C olan Ayşe Bektaş isimli kız öğrencileri tek sorguda ekleyin.
+
+33. Öğrenci tablosundaki rastgele bir öğrenciyi yazarlar tablosuna yazar olarak ekleyiniz.
+
+34.Öğrenci numarası 10 ile 30 arasındaki öğrencileri yazar olarak ekleyiniz.
+
+35. Nurettin Belek isimli yazarı ekleyip yazar numarasını yazdırınız.(Not: Otomatik arttırmada son arttırılan değer @@IDENTITY değişkeni içinde tutulur.)
+
+36. 10B sınıfındaki öğrenci numarası 3 olan öğrenciyi 10C sınıfına geçirin.
+
+37. 9A sınıfındaki tüm öğrencileri 10A sınıfına aktarın. 
+
+38. Tüm öğrencilerin puanını 5 puan arttırın.
+
+39. 25 numaralı yazarı silin.
+
+40. Doğum tarihi null olan öğrencileri listeleyin. (insert sorgusu ile girilen 3 öğrenci listelenecektir) 
+
+41. Öğrencinin adını, soyadını ve kitap aldığı tarihleri listeleyin. 
+
+42. Fıkra ve hikaye türündeki kitapların adını ve türünü listeleyin.
+
+43. 10B veya 10C sınıfındaki öğrencilerin numarasını, adını, soyadını ve okuduğu kitapları listeleyin.
+
+44. Roman türündeki kitapları okuyan öğrencilerin numarasını, adını, soyadını ve okuduğu kitabın adını listeleyin 
+
+45. Öğrencinin adını, soyadını ve kitap aldığı tarihleri listeleyin.
+
+46. Fıkra ve hikaye türündeki kitapların adını ve türünü listeleyin.
+
+47. 10B veya 10C sınıfındaki öğrencilerin numarasını, adını, soyadını ve okuduğu kitapları, öğrenci adına göre listeleyin.
+
+48. Kitap alan öğrencinin adı, soyadı, kitap aldığı tarih listelensin. Kitap almayan öğrencilerinde listede görünsün.
+
+49. Kitap almayan öğrencileri listeleyin.
+
+50. Alınan kitapların kitap numarasını, adını ve kaç defa alındığını kitap numaralarına göre artan sırada listeleyiniz.
+ 
+51. Alınan kitapların kitap numarasını, adını kaç defa alındığını (alınmayan kitapların yanında 0 olsun) listeleyin. 
+
+52. Öğrencilerin adı soyadı ve aldıkları kitabın adı listelensin.
+
+53.Her öğrencinin adı, soyadı, kitabın adı, yazarın adı soyad ve kitabın türünü ve kitabın alındığı tarihi listeleyiniz. Kitap almayan öğrenciler de listede görünsün.
+
+54.Her öğrencinin adı, soyadı, kitabın adı, yazarın adı soyad ve kitabın türünü ve kitabın alındığı tarihi listeleyiniz. Kitap almayan öğrenciler de listede görünsün.( Farklı Çözüm)
+
+55. 10A veya 10B sınıfındaki öğrencilerin adı soyadı ve okuduğu kitap sayısını getirin.
+
+56.En fazla sayfa sayılı kitabın bilgilerini listeleyiniz. 
+
+57. Sayfa sayısı ortalama sayfa sayısından fazla olan kitapları listeleyiniz.
+
+59.Adı e harfi ile başlayan yazarların kitapları
+
+60.İç içe sorgu ile kitap okumayan öğrencileri listeleyiniz.
+
+61. İç içe select ile okunmayan kitapları listeleyiniz.
+
+62. Mayıs ayında okunmayan kitapları listeleyin.
+
+63. Tüm kitapların ortalama sayfa sayısını bulunuz.
+
+64.Sayfa sayısı ortalama sayfanın üzerindeki kitapları listeleyin. 
+
+65.Öğrenci tablosundaki öğrenci sayısını gösterin
+
+66.Öğrenci tablosundaki toplam öğrenci sayısını toplam sayı takma(alias kullanımı) adı ile listeleyin.
+
+67.Öğrenci tablosunda kaç farklı isimde öğrenci olduğunu listeleyiniz.
+
+68.En fazla sayfa sayısı olan kitabın sayfa sayısını listeleyiniz.
+
+69.En fazla sayfası olan kitabın adını ve sayfa sayısını listeleyiniz.
+
+70.En az sayfa sayısı olan kitabın sayfa sayısını listeleyiniz. 
+
+71.En az sayfası olan kitabın adını ve sayfa sayısını listeleyiniz.
+
+72.Dram türündeki en fazla sayfası olan kitabın sayfa sayısını bulunuz.
+
+73.numarası 15 olan öğrencinin okuduğu toplam sayfa sayısını bulunuz.
+
+74.Öğrencinin adını, soyadını ve yaşını listeleyin.
+
+75.İsme göre öğrenci sayılarının adedini bulunuz.(Örn: ali 5 tane, ahmet 8 tane )
+
+76.Her sınıftaki öğrenci sayısını bulunuz.
+
+77.Her sınıftaki erkek ve kız öğrenci sayısını bulunuz.
+
+78.Her öğrencinin adını, soyadını ve okuduğu toplam sayfa sayısını büyükten küçüğe doğru listeleyiniz.
+
+79.Her öğrencinin okuduğu kitap sayısını getiriniz.
