@@ -24,7 +24,18 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - WHERE
     - INSERT INTO SELECT
     - SELECT INTO
-* Arithmetic Expressions and Functions
+* SQL Operators
+    - Arithmetic Operators ➥  + - * / %
+    - Bitwise Operators ➥ & | ^
+    - Comparison Operators ➥ = != < > <= >= <>
+    - Compound Operators ➥ += -= *= /= %=
+    - Logical Operators ➥ AND, OR, BETWEEN, IN, LIKE, NOT, ALL, ANY, SOME
+* MS-SQL Functions
+* Aggregate Functions
+    - AVG, COUNT, SUM, MIN, MAX
+* Grouping Statements
+    - GROUP BY
+    - HAVING
 * Constrait 
     - NULL / NOT NULL
     - UNIQUE
@@ -50,6 +61,7 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - IF, IF-ELSE, IF-ELSE IF-ELSE
     - WHILE - BREAK - CONTINUE
     - CASE - WHEN THEN - ELSE END
+    - CURSOR
 * Function
     - Inline Functions
         - RETURN TABLE
