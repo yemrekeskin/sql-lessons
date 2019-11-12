@@ -66,7 +66,7 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - Inline Functions
         - RETURN TABLE
     - Scalar-Value Functions
-        - RETURN TABLE
+        - RETURN VALUE
 * Stored Procedure
     - CREATE/ALTER/DROP PROC
     - PROC = PROCEDURE
