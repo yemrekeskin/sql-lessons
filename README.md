@@ -7,6 +7,14 @@ This repo contains sample querying exercises, examples, huge data files and trai
 ## Curriculum
 
 * Introduction to T-SQL
+    - USE, PRINT
+    - COMMENTS -- /* */
+    - Not Case sensitive
+    - Command Language
+        - DML Data Definition Language
+        - DML Data Manupulation Language
+        - DCL Data Control Language
+        - TCL Transaction Control Language
 * Schema 
     - CREATE SCHEMA
     - DROP SCHEMA
