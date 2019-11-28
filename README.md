@@ -7,6 +7,12 @@ This repo contains sample querying exercises, examples, huge data files and trai
 ## Curriculum
 
 * Introduction to T-SQL
+    - Notations
+        - CAMEL - evrenselYazilim
+        - PASCAL - EvrenselYazilim
+        - UNDERSCORE - evrensel_Yazilim
+        - UPPERCASE - EVRENSEL_YAZILIM
+        - HUNGARY - tblEvrenselYazilim
     - USE, PRINT
     - COMMENTS -- /* */
     - Not Case sensitive
