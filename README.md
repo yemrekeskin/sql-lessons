@@ -16,6 +16,7 @@ This repo contains sample querying exercises, examples, huge data files and trai
     - USE, PRINT
     - COMMENTS -- /* */
     - Not Case sensitive
+    - Server.Database.Schema.Table | Stored Procedure etc.
     - Command Language
         - DML Data Definition Language
         - DML Data Manupulation Language
