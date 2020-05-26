@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/yemrekeskin/sql-lessons/master/T-SQL%20Training%20Material/icon.png" width="50" height="50"> 
 
-# SQL Lessons - Training Materials
+# T-SQL Lessons - Training Materials
 
 This repo contains sample querying exercises, examples, huge data files and training materials with transact-SQL on microsoft **ms-sql** server
 
